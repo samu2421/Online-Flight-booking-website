@@ -1,2 +1,3 @@
 # Online-Flight-booking-website
 Online flight booking system is to maintain flight details, flight status, reservation. The flight status which maintains flight ID, flight name, arrival time, departure time and also it contains details about the seats such business class seats, economic class seats.
+The Online flight booking system contains the details about needed flight name as well as the details about the seats. Online flight booking system contains the flight ID, ticket number, passenger name, destination, flight name, business and economic class seats, travel charge, passport number, date of travel are reserved.
